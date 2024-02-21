@@ -12,7 +12,7 @@ public class una {
 		
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
-			
+		System.out.println("What woud I do next? ");
 		}
 			
 	}
