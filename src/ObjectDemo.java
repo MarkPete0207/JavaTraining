@@ -1,5 +1,5 @@
 
-// To review the code visit link bellow
+// To review the code visit link bellow here
 //https://dev.java/learn/classes-objects/creating-objects/
 public class ObjectDemo {
     public static void main(String[] args) {
@@ -24,6 +24,7 @@ public class ObjectDemo {
         rectTwo.move(40, 72);
         System.out.println("X Position of rectTwo: " + rectTwo.origin.x);
         System.out.println("Y Position of rectTwo: " + rectTwo.origin.y);
+        System.out.println("X and Y position of recTwo: " + rectTwo.origin.x + rectTwo.origin.y);
     }
 }
 
